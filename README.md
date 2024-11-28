@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sunil Shrestha</h1>
-<h3 align="center">A Flutter developer who loves to build cool apps alongside who wants to know about AI and Machine learning.</h3>
+<h3 align="center">A Flutter developer who loves to build cool apps and someone who wants to know about AI and Machine learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunichiii&label=Profile%20views&color=b40e0e&style=flat" alt="sunichiii" /> </p>
 
@@ -24,4 +24,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunichiii&show_icons=true&theme=dracula&locale=en&layout=compact" alt="sunichiii" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunichiii&theme=dark" alt="sunichiii" /></p>
-
